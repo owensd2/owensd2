@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @owensd2
-idanielowens@gmail.com | dowens@indecon.ie
+idanielowens@gmail.com | s03dowen@uni-bonn.de
 
 <!---
 owensd2/owensd2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
