@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Owenws (@owensd2)
+- 👋 Hi, I’m Daniel Owens (@owensd2)
 idanielowens@gmail.com | owensd2@tcd.ie
 
 <!---
